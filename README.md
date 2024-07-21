@@ -13,4 +13,4 @@ The Hotel-Booking analytics has the following work done:
 - Adjust data for seasonality and create demand forecasting models
 - Use machine learning to predict booking cancellations
 
-[Deployment](https://huggingface.co/spaces/mayankraghav/Capstone_project) :- 
+-: [Deployment](https://huggingface.co/spaces/mayankraghav/Capstone_project) :- 
