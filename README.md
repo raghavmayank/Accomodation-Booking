@@ -1,4 +1,4 @@
-# group-7-iitj-capstone
+# Hotel Booking Analytics
 
 The Hotel-Booking analytics has the following work done:
 
