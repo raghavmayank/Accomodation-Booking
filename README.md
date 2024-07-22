@@ -1,9 +1,6 @@
 # Accomodation Booking prediction
 
 - Mayank Raghav (G23AI1022)
-- Abhinava Bharat (G23AI1012)
-- Nachiket Mahishi (G23AI1024)
-
 The project has the following work done:
 
 - Load data from a streaming or a batch source.
