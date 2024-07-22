@@ -1,6 +1,10 @@
-# Hotel Booking Analytics
+# Accomodation Booking prediction
 
-The Hotel-Booking analytics has the following work done:
+- Mayank Raghav (G23AI1022)
+- Abhinava Bharat (G23AI1012)
+- Nachiket Mahishi (G23AI1024)
+
+The project has the following work done:
 
 - Load data from a streaming or a batch source.
 - Save the raw data to a S3 bucket and trigger a Glue job or a lambda according to the size of the data
@@ -13,4 +17,4 @@ The Hotel-Booking analytics has the following work done:
 - Adjust data for seasonality and create demand forecasting models
 - Use machine learning to predict booking cancellations
 
--: [Deployment](https://huggingface.co/spaces/mayankraghav/Capstone_project) :- 
+-: The project is deployed in [here](https://huggingface.co/spaces/mayankraghav/Capstone_project) :- 
